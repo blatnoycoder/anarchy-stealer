@@ -1,0 +1,2 @@
+C:\Users\crdpunkt\Desktop\anarchy stealer\Recovery\obj\Debug\Recovery.csproj.AssemblyReference.cache
+C:\Users\crdpunkt\Desktop\anarchy stealer\Recovery\obj\Debug\Recovery.csproj.CoreCompileInputs.cache
